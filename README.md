@@ -9,7 +9,7 @@ Your manager has been asked to determine how much profit the company can expect 
 
 You’ve been asked to predict the expected profit from these 250 new customers. Management does not want to send the catalog out to these new customers unless the expected profit contribution exceeds $10,000.
 
-##Details
+## Details
 
 The costs of printing and distributing is $6.50 per catalog.
 
